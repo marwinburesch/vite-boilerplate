@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
+    "stylelint-config-prettier": "^8.0.2",
     "typescript": "^4.3.2",
     "vite": "^2.4.4"
   },
